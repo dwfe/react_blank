@@ -1,5 +1,4 @@
 @import '~normalize.css';
-@import './system.override.css';
 @import './variable.css';
 
 body {
